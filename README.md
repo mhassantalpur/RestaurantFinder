@@ -24,8 +24,8 @@ Restaurant finder is a boilerplate PERN stack application to help practice commo
 
 <a name="techStack"></a>
 ## Tech Stack
-This application was build using the PERN stack:
-1.) (P)ostgreSQL for the database
-2.) (E)xpress for backend api management
-3.) (R)eact for all frontend UI
-4.) (N)ode.js - javascript runtime environment
+This application was build using the PERN stack: <br />
+1.) (P)ostgreSQL for the database <br />
+2.) (E)xpress for backend api management <br />
+3.) (R)eact for all frontend UI <br />
+4.) (N)ode.js - javascript runtime environment <br />
